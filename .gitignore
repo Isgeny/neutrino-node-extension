@@ -1,2 +1,6 @@
+/.idea
+/lib
+/out
 *.class
 *.log
+*.iml
